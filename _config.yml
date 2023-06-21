@@ -214,6 +214,19 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+  ## dataset
+  - scope:
+      path: "_dataset/en"
+    values:
+      layout: article
+      nav_key: dataset
+      sidebar:
+        nav: dataset-en
+      license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_date: false
 
 
 ## => Plugins
