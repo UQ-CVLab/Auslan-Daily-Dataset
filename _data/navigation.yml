@@ -60,20 +60,20 @@ header:
 dataset-en:
   - title:      Dataset
     url:        /docs/en/dataset-start
-  - title:      Data Examples
-    children:
-      - title:  Sally & Possum
-        url:    /docs/en/data-example-sally-and-possum
-      - title:  ABC Daily News
-        url:    /docs/en/data-example-abc-daily-news
-      - title:  Web
-        url:    /docs/en/data-example-web
-  - title:      Data Collection
-    children:
-      - title:  Sally & Possum
-        url:    /docs/en/dataset-sally-and-possum
-      - title:  ABC Daily News
-        url:    /docs/en/dataset-abc-daily-news
+  # - title:      Data Examples
+  #   children:
+  #     - title:  Sally & Possum
+  #       url:    /docs/en/data-example-sally-and-possum
+  #     - title:  ABC Daily News
+  #       url:    /docs/en/data-example-abc-daily-news
+  #     - title:  Web
+  #       url:    /docs/en/data-example-web
+  # - title:      Data Collection
+  #   children:
+  #     - title:  Sally & Possum
+  #       url:    /docs/en/dataset-sally-and-possum
+  #     - title:  ABC Daily News
+  #       url:    /docs/en/dataset-abc-daily-news
   #     - title:  Update from 1.x to 2.x
   #       url:    /docs/en/update-from-1-to-2
   # - title:      Annotation
