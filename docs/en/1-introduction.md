@@ -17,3 +17,6 @@ With a collection of more than 45 hours of high-quality Auslan video materials, 
 As a result, Auslan-Daily contains multi-grained annotations that can be utilized to accomplish various fundamental sign language tasks, such as signer detection, sign spotting, fingerspelling detection, isolated sign language recognition, sign language translation and alignment.
 We hope this dataset will contribute to the development of Auslan and the advancement of sign languages worldwide in a broader context.
 Please watch the video below for more information about the Auslan-Daily translation dataset:
+
+
+<div>{%- include extensions/youtube.html id='arwo62hSX1o' -%}</div>
