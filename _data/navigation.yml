@@ -39,7 +39,7 @@ header:
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
       # @end locale config
-    url: /docs/en/dataset
+    url: /docs/en/dataset-source
     key: dataset
 
   - titles:
@@ -58,8 +58,32 @@ header:
 
 
 dataset-en:
-  - title:      Dataset
-    url:        /docs/en/dataset-start
+  - title:      Data Collection
+    children:
+      - title:  Source
+        url:    /docs/en/dataset-source
+      - title:  Collection
+        url:    /docs/en/dataset-collection
+  - title:      Annotations
+    children:
+      - title:  Fingerspelling
+        url:    /docs/en/dataset-annotation-fingerspelling
+      - title:  Gloss
+        url:    /docs/en/dataset-annotation-gloss
+      - title:  Sentence
+        url:    /docs/en/dataset-annotation-sentence
+  - title:      Tasks
+    children:
+      - title:  Main Tasks
+        url:    /docs/en/dataset-main-task
+      - title:  Sub Tasks
+        url:    /docs/en/dataset-sub-tasks
+  - title:      Dataset Download
+    children:    
+      - title:  Data Format
+        url:    /docs/en/dataset-format
+      - title:  Dataset Download
+        url:    /docs/en/dataset-download
   # - title:      Data Examples
   #   children:
   #     - title:  Sally & Possum
