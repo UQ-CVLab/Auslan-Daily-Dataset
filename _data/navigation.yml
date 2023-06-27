@@ -72,9 +72,11 @@ dataset-en:
         url:    /docs/en/dataset-annotation-gloss
       - title:  Sentence
         url:    /docs/en/dataset-annotation-sentence
+      - title:  Pose Sequence of Human
+        url:    /docs/en/dataset-annotation-pose-sequence-of-human
   - title:      Tasks
     children:
-      - title:  Main Tasks
+      - title:  Main Task
         url:    /docs/en/dataset-main-task
       - title:  Sub Tasks
         url:    /docs/en/dataset-sub-tasks
